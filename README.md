@@ -1,6 +1,6 @@
 # Hello-world
 My first repository
 
-Hi there,
+Hi,
 
 Shane here. I literally do not know what I am doing here. I hope I will know it.
